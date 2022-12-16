@@ -74,7 +74,7 @@ First of all to unzip the sources archive and install the program using the comm
 source ./install.sh <pathname>
 ```
 
-It will create a folder called <pathname> inside which are located the folders that were in sources.zip, there will also be a folder with the executables of each process.
+It will create a folder called <pathname> inside which are located the folders that were in sources.zip, there will also be a folder with the executables of process.
   
 After that run the program with the command:
 
