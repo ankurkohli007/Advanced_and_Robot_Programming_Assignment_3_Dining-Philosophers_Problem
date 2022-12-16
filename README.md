@@ -14,4 +14,16 @@
 
 ![alt text](image1.png)
 
+The above figure shows the brief structure of the **Dining Philosopher Problem**.
+
+## Assignment Requirements ##
+
+* Solved the problem with 5 processes, one per philosopher. Each philosopher is endless cycling, with randomly variable period (random "eating" time).
+
+* A further process stores, using shared memory, the 5 forks.
+
+* Each philosopher prints on the screen what is doing. The same is done for the forks status.
+
+* Show that the solution never gets deadlocked, by making the philosophers to pick up simultaneously the 5 forks.
+
 
