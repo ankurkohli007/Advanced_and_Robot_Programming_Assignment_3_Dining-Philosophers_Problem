@@ -58,7 +58,7 @@ Deadlock could occur if every philosopher holds a left chopstick and waits perpe
 2. For convenience, we assume that all philosophers request their left chopstick first, then their right chopstick.
 3. The waiter always provides chopsticks upon request unless only one chopstick remains unused. In that case, the waiter honors the request only if a right chopstick is requested; requests for a left chopstick are deferred until another philosopher finishes eating.
 
-Argument for correct deadlock avoidance: The last chopstick will only be assigned if the waiter is certain that at least one philosopher can finish eating (thereupon releasing chopsticks). Therefore, the "circular wait" required for deadlock can't occur.
+**Argument for correct deadlock avoidance:** The last chopstick will only be assigned if the waiter is certain that at least one philosopher can finish eating (thereupon releasing chopsticks). Therefore, the "circular wait" required for deadlock can't occur.
 
 No starvation; fairness (depending on your waiter); degree of concurrency
 
