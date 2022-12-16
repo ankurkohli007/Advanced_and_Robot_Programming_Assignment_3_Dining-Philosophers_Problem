@@ -44,7 +44,7 @@ c[i].signal(); // released left chopstick
 ```
 ## Dining Philosophers: Deadlock! ##
 
-■ If all five philosophers sit down and pick up their left chopsticks at the same time, this causes a circular waiting and the program deadlocks.
+If all five philosophers sit down and pick up their left chopsticks at the same time, this causes a circular waiting and the program deadlocks.
 
 ***How does deadlock occur in dining philosophers problem?***
 
