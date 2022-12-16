@@ -6,8 +6,12 @@
 
 ## Dining Philosopher Problem ##
 
-■ Five philosophers are in a thinking - eating cycle.<br>
-■ When a philosopher gets hungry, he sits down, picks up his left and then his right chopsticks, and eats.<br>
-■ A philosopher can eat only if he has both chopsticks.<br>
+■ Five philosophers are in a **thinking - eating** cycle.<br>
+■ When a philosopher gets hungry, he sits down, picks up **his left** and then **his right** chopsticks, and eats.<br>
+■ A philosopher can eat only if he has **both** chopsticks.<br>
 ■ After eating, he puts down both chopsticks and thinks.<br>
 ■ This cycle continues.<br>
+
+![alt text](image1.png)
+
+
