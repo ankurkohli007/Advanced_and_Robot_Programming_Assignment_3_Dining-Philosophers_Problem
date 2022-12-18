@@ -81,6 +81,6 @@ After that run the program with the command:
 ```
 ./run.sh
 ```
-  
-Each of this process has a section in which a signal is sent to the watchdog timer to prove they're functioning.
+
+:spiral_notepad: Feel free to clone this repository and try experiment with it.
 
